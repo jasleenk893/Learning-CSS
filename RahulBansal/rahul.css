@@ -1,0 +1,28 @@
+ul {
+  list-style-type: none;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */
+}
+li {
+  display: inline-block;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  /* position: relative;
+  left: 30%;
+  right: 30%; */
+}
+li:hover {
+  background-color: #363636;
+}
+.hobbies {
+  position: relative;
+  left: 10%;
+  top: 50%;
+  color: black;
+}
