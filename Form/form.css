@@ -1,0 +1,30 @@
+.form {
+  height: 300px;
+  width: 500px;
+  margin: auto;
+  border: 1px solid #555;
+  border-radius: 20px;
+}
+.fname,
+.lname,
+.location {
+  height: 16px;
+  width: 200px;
+  position: relative;
+  display: block;
+  left: 50px;
+  top: 10px;
+  margin: 5px;
+}
+.title {
+  text-align: center;
+}
+.submit {
+  position: relative;
+  background-color: rgb(28, 158, 28);
+  border-radius: 5%;
+  height: 100%;
+  width: 200px;
+  top: 20px;
+  left: 60px;
+}
